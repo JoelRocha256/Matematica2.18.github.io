@@ -1,7 +1,9 @@
+/* Visto - apague este comentário depois */
 
-body{
-    font-family: Arial, Helvetica, sans-serif;
-}
-root{
+:root{
     cor-de-fundo:#008055
+}
+
+.body{
+    font-family: Arial, Helvetica, sans-serif;
 }
